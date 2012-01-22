@@ -1,0 +1,8 @@
+syntax: regexp
+Debug/*
+Release/*
+ipch/*
+syntax: glob
+time functions' performance.opensdf
+time functions' performance.sdf
+time functions' performance.suo
